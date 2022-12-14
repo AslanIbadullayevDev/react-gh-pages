@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AslanIbadullayevDev/react-gh-pages/static/css/main.e268fe7d.css",
+    "main.js": "/AslanIbadullayevDev/react-gh-pages/static/js/main.fea74f05.js",
+    "static/media/group771.svg": "/AslanIbadullayevDev/react-gh-pages/static/media/group771.814ba3c0e488c827213bf16935475f2c.svg",
+    "static/media/cardimage.svg": "/AslanIbadullayevDev/react-gh-pages/static/media/cardimage.7b760c666938b362675042279b8cfa0c.svg",
+    "static/media/airbnb.svg": "/AslanIbadullayevDev/react-gh-pages/static/media/airbnb.bcd545b3a62e5c4158c7e892f4abfb0a.svg",
+    "index.html": "/AslanIbadullayevDev/react-gh-pages/index.html",
+    "main.e268fe7d.css.map": "/AslanIbadullayevDev/react-gh-pages/static/css/main.e268fe7d.css.map",
+    "main.fea74f05.js.map": "/AslanIbadullayevDev/react-gh-pages/static/js/main.fea74f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e268fe7d.css",
+    "static/js/main.fea74f05.js"
+  ]
+}
